@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar_icons{
+  color:crimson;
+ 
+}
+.star_icon{
+  color: rgb(238, 238, 17);
+}
+.customer_star_icon{
+  color: rgb(80, 154, 240);
+}
+.nav_container{
+  /* margin-top: 100px; */
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(350px,1fr));
+  grid-gap: 55px;
+}
+.icon{
+background-color: crimson;
+}
+.search{
+  color:white;
+}
+.mini-header{
+  float: left;
+}
+.h_img{
+  float: left;
+}
+.para{
+  font-size: 13px;
+}
